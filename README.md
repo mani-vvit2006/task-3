@@ -12,4 +12,4 @@ Build a program that automatically solves Sudoku puzzles using a backtracking al
 1. Ensure Python 3.x is installed.
 2. Clone this repository:
    ```bash
-   git clone 
+   git clone https://github.com/mani-vvit2006/task-3.git
